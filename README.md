@@ -20,7 +20,7 @@ I have created my own token named "aditya" and give a token abbreviation as "adi
 
 ## Support
 
-I highly recommend checking out the Metacrafters academy for such amazing content. Their Discord server is Hyperactive and the people there are really welcoming and encouraging. It is a game changer moment for me to have this massive support. There are so many things to learn more on. 
+I highly recommend checking out the Metacrafters academy for such amazing content. Their Discord server is Hyperactive and the people there are really welcoming and encouraging. It is a game changer moment for me to have this massive support. There are so many things to learn and more on. 
 
 ## Authors
 ADITYA KALASKAR
